@@ -1,0 +1,1 @@
+requisitos jogo velha
